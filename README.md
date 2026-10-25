@@ -14,7 +14,7 @@ Machine learning project that predicts whether a machine is likely to fail from 
 ## Project structure
 
 ```
-├── notebook.ipynb                 # EDA, preprocessing, training, evaluation
+├── notebook.py                    # EDA, preprocessing, training, evaluation
 ├── app.py                         # Streamlit frontend
 ├── maintenance_bundle.joblib      # Trained models + metadata used by the app
 ├── requirements.txt
