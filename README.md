@@ -16,7 +16,7 @@ Machine learning project that predicts whether a machine is likely to fail from 
 ```
 ├── notebook.py                    # EDA, preprocessing, training, evaluation
 ├── app.py                         # Streamlit frontend
-├── maintenance_bundle.joblib      # Trained models + metadata used by the app
+├── model.pkl                      # Trained models + metadata used by the app
 ├── requirements.txt
 └── README.md
 ```
